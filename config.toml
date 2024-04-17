@@ -1,0 +1,11 @@
+theme = "gruvbox"
+
+[editor]
+line-number = "relative"
+mouse = false
+jump-label-alphabet = "asfhjklgqwertyuiopzxcvbnm"
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
